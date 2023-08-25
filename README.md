@@ -1,6 +1,6 @@
 # ShoppingNow
 This is very amazing App that solves Two Public Issues Mention below:-----
-#Youtube Video link
+# Youtube Video link
 https://youtu.be/Gd8VuIvbH7w
 # 1. Primary Goal 
 To help businesses gain a deeper understanding of customer sentiments towards their products or services. By analyzing positive, negative and neutral sentiments, companies can identify areas of improvement, address customer concerns, and optimize their offerings.
